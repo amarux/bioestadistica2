@@ -1,0 +1,17 @@
+Position,Week,Treatment,Weight_increase
+P1,W1,A,18.5
+P2,W1,B,22.5
+P3,W1,C,18.8
+P4,W1,D,25.8
+P1,W2,B,21.3
+P2,W2,C,20.2
+P3,W2,D,26.4
+P4,W2,A,19.5
+P1,W3,C,19.4
+P2,W3,D,25.6
+P3,W3,A,20.1
+P4,W3,B,22.4
+P1,W4,D,24.1
+P2,W4,A,19.3
+P3,W4,B,23
+P4,W4,C,20.3
